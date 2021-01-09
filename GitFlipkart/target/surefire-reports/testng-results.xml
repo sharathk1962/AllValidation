@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="50679" started-at="2021-01-10T01:26:28 IST" finished-at="2021-01-10T01:27:18 IST">
+    <groups>
+    </groups>
+    <test name="FunctionalTest" duration-ms="50679" started-at="2021-01-10T01:26:28 IST" finished-at="2021-01-10T01:27:18 IST">
+      <class name="ecommercesite.Londingpage">
+        <test-method status="PASS" signature="srachforproduct()[pri:0, instance:ecommercesite.Londingpage@52f27fbd]" name="srachforproduct" duration-ms="1156" started-at="2021-01-10T01:26:51 IST" finished-at="2021-01-10T01:26:53 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- srachforproduct -->
+      </class> <!-- ecommercesite.Londingpage -->
+      <class name="ecommercesite.SelectandAddtoCart">
+        <test-method status="PASS" signature="searchandadd()[pri:0, instance:ecommercesite.SelectandAddtoCart@4c163e3]" name="searchandadd" duration-ms="24190" started-at="2021-01-10T01:26:53 IST" finished-at="2021-01-10T01:27:17 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchandadd -->
+      </class> <!-- ecommercesite.SelectandAddtoCart -->
+      <class name="ecommercesite.LoggedIntoFlipkart">
+        <test-method status="PASS" signature="initalisebrowser()[pri:0, instance:ecommercesite.LoggedIntoFlipkart@45d84a20]" name="initalisebrowser" is-config="true" duration-ms="18644" started-at="2021-01-10T01:26:28 IST" finished-at="2021-01-10T01:26:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initalisebrowser -->
+        <test-method status="PASS" signature="signntoflipkart()[pri:0, instance:ecommercesite.LoggedIntoFlipkart@45d84a20]" name="signntoflipkart" duration-ms="5089" started-at="2021-01-10T01:26:46 IST" finished-at="2021-01-10T01:26:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signntoflipkart -->
+        <test-method status="PASS" signature="closebrowser()[pri:0, instance:ecommercesite.LoggedIntoFlipkart@45d84a20]" name="closebrowser" is-config="true" duration-ms="1492" started-at="2021-01-10T01:27:17 IST" finished-at="2021-01-10T01:27:18 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+      </class> <!-- ecommercesite.LoggedIntoFlipkart -->
+    </test> <!-- FunctionalTest -->
+  </suite> <!-- Suite -->
+</testng-results>
