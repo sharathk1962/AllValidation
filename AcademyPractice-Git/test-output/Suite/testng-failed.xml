@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" parallel="none">
+  <test name="Test(failed)" parallel="none" preserve-order="true">
+    <classes>
+      <class name="endtoendselenium.Firstffour">
+        <methods>
+          <include name="initialise"/>
+        </methods>
+      </class> <!-- endtoendselenium.Firstffour -->
+      <class name="endtoendselenium.NextThree">
+        <methods>
+          <include name="selectnext3"/>
+        </methods>
+      </class> <!-- endtoendselenium.NextThree -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
