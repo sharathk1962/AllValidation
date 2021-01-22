@@ -25,7 +25,13 @@ public class Firstffour extends Root{
 		driver= launchbrowser();
 
 	}
+	@BeforeTest
+	public void inithialise() throws IOException {
 
+		driver= launchbrowser();
+
+	}
+	
 	@Test
 	public void performfirstsetopertaions() throws InterruptedException
 	{
