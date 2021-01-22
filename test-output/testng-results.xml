@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="28495" started-at="2021-01-22T19:18:29Z" finished-at="2021-01-22T19:18:57Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="28495" started-at="2021-01-22T19:18:29Z" finished-at="2021-01-22T19:18:57Z">
+      <class name="endtoendselenium.NextThree">
+        <test-method status="PASS" signature="selectnext3()[pri:0, instance:endtoendselenium.NextThree@18f8cd79]" name="selectnext3" duration-ms="10003" started-at="2021-01-23T00:48:46Z" finished-at="2021-01-23T00:48:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectnext3 -->
+        <test-method status="PASS" signature="closebrwoser()[pri:0, instance:endtoendselenium.NextThree@18f8cd79]" name="closebrwoser" is-config="true" duration-ms="1178" started-at="2021-01-23T00:48:56Z" finished-at="2021-01-23T00:48:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrwoser -->
+      </class> <!-- endtoendselenium.NextThree -->
+      <class name="endtoendselenium.Firstffour">
+        <test-method status="PASS" signature="initialise()[pri:0, instance:endtoendselenium.Firstffour@3bcd05cb]" name="initialise" is-config="true" duration-ms="9570" started-at="2021-01-23T00:48:29Z" finished-at="2021-01-23T00:48:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialise -->
+        <test-method status="PASS" signature="performfirstsetopertaions()[pri:0, instance:endtoendselenium.Firstffour@3bcd05cb]" name="performfirstsetopertaions" duration-ms="7717" started-at="2021-01-23T00:48:38Z" finished-at="2021-01-23T00:48:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- performfirstsetopertaions -->
+      </class> <!-- endtoendselenium.Firstffour -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

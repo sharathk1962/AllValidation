@@ -1,0 +1,7 @@
+00:48:39.137 [main] DEBUG endtoendselenium.Firstffour - radio button is selected
+00:48:45.936 [main] INFO  endtoendselenium.Firstffour - Succesfully selected United Kingdom
+00:48:46.379 [main] DEBUG endtoendselenium.Firstffour - checkbox is selected
+00:48:46.728 [main] INFO  endtoendselenium.NextThree - The text present in alert button is : Hello Sharath, share this practice page and share your knowledge
+00:48:46.848 [main] INFO  endtoendselenium.NextThree - The text present in confirm button is : Hello , Are you sure you want to confirm?
+00:48:52.018 [main] INFO  endtoendselenium.NextThree - Newtab window matched
+00:48:56.282 [main] INFO  endtoendselenium.NextThree - opened new sepearate window matched
